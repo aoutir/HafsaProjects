@@ -13,10 +13,9 @@
 # [Project 2: Road segmentation challenge](https://github.com/CS-433/ml-project-2-hse)
 
 * Train a classifier to segment roads given a set of satellite images from google maps using DeepLabV3 Resnet-101 achieved an F1 score of 0.920 on the test set. 
-* Since the provided dataset was small we had to perform data augmentation techniques on the images standard options from the PyTorch library : torchvision were used, with Functional transforms allowing a fine-grained control of the transformation pipeline. 
-* To choose the most suitable predictive model for segmentation we compared different models to our baseline model which is a simple convolutional neural network. (U-net, DeepLabV3, LR-ASPP mobileNetV3 Large) 
-* We trained all the models on our training set by pytorch on TorchVision.models.segmentation.
-* We performed hyperparameters tuning using gridsearh and random-search.
+* Since the provided dataset was small, we had to perform data augmentation techniques on the images. Torchvision was used allowing a fine-grained control of the transformation pipeline. 
+* Model selection (U-net, DeepLabV3, LR-ASPP mobileNetV3 Large) and hyperparameters tuning using crossvalidation, Grid search/Random search. 
+
 
 
 
