@@ -6,7 +6,7 @@
 * Analysing Tesla's stock price from 2015 until 2020
 * Preprocessing of quotations: Tokenization, lemmatization, removing stop words and punctuation. 
 * Sentiment Analysis of Elon Musk's quotations using two pretrained models Vader and Textblob. 
-* Perform TF-IDF on Elon musk quotes to add features to our model: which was proven to be efficent since we obtained better performance.
+* Perform TF-IDF on Elon musk quotes to add features to our model: which was proven to be efficent. 
 * Compare different predictive models to find the most accurate one for our study for instance linear regression, gradient boosting regressor, SVM and MLP classifier.
 
 
