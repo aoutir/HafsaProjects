@@ -10,7 +10,7 @@
 * Compare different predictive models to find the most accurate one for our study for instance linear regression, gradient boosting regressor, SVM and MLP classifier.
 
 
-# [Project 2: Road segmentation challenge](https://github.com/CS-433/ml-project-2-hse)
+# [Project 2: Road segmentation challenge](https://github.com/aoutir/Project_Machine_Learning)
 
 * Train a classifier to segment roads given a set of satellite images from google maps using DeepLabV3 Resnet-101 achieved an F1 score of 0.920 on the test set. 
 * Since the provided dataset was small, we had to perform data augmentation techniques on the images. Torchvision was used allowing a fine-grained control of the transformation pipeline. 
