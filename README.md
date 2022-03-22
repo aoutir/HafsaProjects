@@ -26,4 +26,7 @@
 * Achived an F1 score of 0.53 with the stackedCNNpred wich was quite impressive since the training set was small.
 
 
+# [Project 4: Emulator of gameboy](https://github.com/aoutir/Emulator_gameboy)
+
+* Implemented a nintendo emulator in C, the main components of the gameboy were implemented for instance cpu, bus controller, ROM, DRAM and many more.
 
