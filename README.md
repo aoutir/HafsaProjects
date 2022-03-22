@@ -27,7 +27,7 @@
 
 # [Project 4: DECIDE ](https://github.com/aoutir/DECIDE)
 
-* DECIDE() is a software application that generates a boolean signal determining whether an interceptor should be launched based on input radar tracking information. This radar tracking information is available at the instant the function is called.
+* DECIDE() is a software application implemented in Java that generates a boolean signal determining whether an interceptor should be launched based on input radar tracking information. This radar tracking information is available at the instant the function is called.
 
 # [Project 5: Emulator of gameboy](https://github.com/aoutir/Emulator_gameboy)
 
