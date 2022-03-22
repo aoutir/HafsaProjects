@@ -25,12 +25,15 @@
 * Run experiments on different models CNNpred, stackedCNNpred, LSTM, CNN-LSTM. 
 * Achived an F1 score of 0.53 with the stackedCNNpred wich was quite impressive since the training set was small.
 
+# [Project 4: DECIDE ](https://github.com/aoutir/DECIDE)
 
-# [Project 4: Emulator of gameboy](https://github.com/aoutir/Emulator_gameboy)
+* DECIDE() is a software application that generates a boolean signal determining whether an interceptor should be launched based on input radar tracking information. This radar tracking information is available at the instant the function is called.
+
+# [Project 5: Emulator of gameboy](https://github.com/aoutir/Emulator_gameboy)
 
 * Implemented a nintendo emulator in C, the main components of the gameboy were implemented for instance cpu, bus controller, ROM, DRAM and many more.
 
-# [Project 5: Tangible game](https://github.com/aoutir/Project_computer_vision) 
+# [Project 6: Tangible game](https://github.com/aoutir/Project_computer_vision) 
 
 * 3D game contrallable using webcame implemented in Processing. 
 
