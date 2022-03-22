@@ -33,6 +33,14 @@
 
 * Implemented a nintendo emulator in C, the main components of the gameboy were implemented for instance cpu, bus controller, ROM, DRAM and many more.
 
+# [Project 6: Grid game](https://github.com/aoutir/game_java)
+
+* Implemented a grid game in java where the player will have to solve puzzles for example: (a) break a rock with
+an object to find, (b) and (c) finding one's way in a maze with or without a field
+restricted vision, (d) activate all signals by stepping on them, (e) find the correct
+combination of levers or (f) work your way through by pushing rocks to gain access to
+useful resources or other game levels.
+
 # [Project 6: Tangible game](https://github.com/aoutir/Project_computer_vision) 
 
 * 3D game contrallable using webcame implemented in Processing. 
