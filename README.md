@@ -45,5 +45,7 @@ useful resources or other game levels.
 
 * 3D game contrallable using webcame implemented in Processing. 
 
+# [Project 7: Jass Game] 
 
+*Implemented the famous card game Jass in Java.
 
