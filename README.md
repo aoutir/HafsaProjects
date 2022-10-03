@@ -1,4 +1,4 @@
-# Hafsa_Portfolio
+# Hafsa's Projects
 
 # [Project 1: Explore the impact of Elon Musk’s quotations on the stock market using tesla stock market](https://github.com/epfl-ada/ada-2021-project-noname)
 
