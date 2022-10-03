@@ -45,7 +45,7 @@ useful resources or other game levels.
 
 * 3D game contrallable using webcame implemented in Processing. 
 
-# [Project 7: Jass Game] (https://github.com/aoutir/game_java)
+# [Project 7: Jass Game](https://github.com/aoutir/game_java)
 
-*Implemented the famous card game Jass in Java with the graphical interface.
+* Implemented the famous card game Jass in Java with the graphical interface.
 
