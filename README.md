@@ -1,6 +1,6 @@
 # Hafsa's Projects
 
-# [Project 1: Explore the impact of Elon Musk’s quotations on the stock market using tesla stock market](https://github.com/epfl-ada/ada-2021-project-noname)
+# [Project : Explore the impact of Elon Musk’s quotations on the stock market using tesla stock market](https://github.com/epfl-ada/ada-2021-project-noname)
 
 * Using quotes retrieved from Quotebank and Tesla’s stock price we build a predictive model to forecast daily stock return of Tesla.
 * Analysing Tesla's stock price from 2015 until 2020
