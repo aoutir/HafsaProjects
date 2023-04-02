@@ -1,6 +1,6 @@
 # Hafsa's Projects
 
-# [Project : Project distributed computing] (https://github.com/aoutir/Distributed-Algorithms) 
+# [Project : Project distributed computing](https://github.com/aoutir/Distributed-Algorithms) 
 
 * Implement in Java building blocks of distributed systems typically reliable broadcast. 
 * The abstractions implemented are: perfect links, best effort broadcast, uniform reliable broadcast, FiFo broadcast and Lattice agreement. 
