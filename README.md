@@ -30,6 +30,12 @@
 * Run experiments on different models CNNpred, stackedCNNpred, LSTM, CNN-LSTM. 
 * Achived an F1 score of 0.53 with the stackedCNNpred which was quite impressive since the training set was small.
 
+
+# [Project : Data analytics for short term forecasting of electrical power] 
+* Optimization of the prediction of electrical power using feature selection.
+* Exploratory data analysis to determine the influence of features. 
+* Clustering using Kmeans and GMM. 
+
 # [Project : DECIDE ](https://github.com/aoutir/DECIDE)
 
 * DECIDE() is a software application implemented in Java that generates a boolean signal determining whether an interceptor should be launched based on input radar tracking information. This radar tracking information is available at the instant the function is called.
