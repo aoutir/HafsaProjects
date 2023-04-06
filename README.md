@@ -31,11 +31,12 @@
 * Achived an F1 score of 0.53 with the stackedCNNpred which was quite impressive since the training set was small.
 
 
-# Project : Data analytics for short term forecasting of electrical power with the lab LCA2 
-* The aim of the project is to maximize the consumption of electrical power by accurately forecasting power consumption using historical data measurements. There are two types of power consumptions, and the team believes that if the same conditions are reproduced, the power magnitude will behave similarly. To achieve this, they have identified a set of influential features, such as time and day, and cluster the historical power measurements according to these features. For each cluster, they build a histogram and use it to predict power consumption for new days. The goal is to discover the optimal set of features for clustering that provides the most accurate predictions. By using this approach, the team hopes to maximize power consumption while minimizing waste and cost.
+# Project : Data analytics for short term forecasting of electrical power with the lab LCA2 at EPFL 
+* The aim of the project is to maximize the consumption of electrical power by accurately forecasting power consumption using historical data measurements. There are two types of power consumptions, and we believe that if the same conditions are reproduced, the power magnitude will behave similarly. To achieve this, a set of influential features has been identified, such as time and day, and  cluster the historical power measurements according to these features. The power magnitudes of each cluster is represented in a histogram and it used to predict power consumption for new days. The goal is to discover the optimal set of features for clustering that provides the most accurate predictions. By using this approach, the goal is to maximize the power consumption while minimizing waste and cost.
 * Exploratory data analysis in order to get insights about the historical measurements of power generation.
 * Studying the optimal classification criterion for power magnitudes using clustering techniques: Kmeans and GMM.
 * Analyse the influence of features using statistical tests Anova correlation and Pearson correlation coefficient.  
+* Unfortunately I can't make the code of this project public since it was done with the help of the Lab. 
 
 
 # [Project : DECIDE ](https://github.com/aoutir/DECIDE)
