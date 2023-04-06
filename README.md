@@ -31,7 +31,7 @@
 * Achived an F1 score of 0.53 with the stackedCNNpred which was quite impressive since the training set was small.
 
 
-# [Project : Data analytics for short term forecasting of electrical power] 
+# Project : Data analytics for short term forecasting of electrical power
 * Optimization of the prediction of electrical power using feature selection.
 * Exploratory data analysis to determine the influence of features. 
 * Clustering using Kmeans and GMM. 
