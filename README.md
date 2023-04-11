@@ -49,7 +49,7 @@
 
 # [Project : Grid game](https://github.com/aoutir/game_java)
 
-* Implemented a grid game in java where the player will have to solve puzzles for example: (a) break a rock with
+* Implemented a grid game in Java where the player will have to solve puzzles for example: (a) break a rock with
 an object to find, (b) and (c) finding one's way in a maze with or without a field
 restricted vision, (d) activate all signals by stepping on them, (e) find the correct
 combination of levers or (f) work your way through by pushing rocks to gain access to
