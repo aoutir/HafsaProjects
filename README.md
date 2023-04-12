@@ -13,7 +13,7 @@
 * Sentiment Analysis of Elon Musk's quotations using two pretrained models Vader and Textblob. 
 * Perform TF-IDF on Elon musk quotes to add features to our model: which was proven to be efficent. 
 * Compare different predictive models to find the most accurate one for our study for instance linear regression, gradient boosting regressor, SVM and MLP classifier.
-* Described the project in a data story [here](https://aoutir.github.io/).
+* Described the project in a data story using HTML [here](https://aoutir.github.io/).
 
 # [Project : Road segmentation challenge](https://github.com/aoutir/Project_Machine_Learning)
 
