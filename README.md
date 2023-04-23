@@ -34,16 +34,16 @@
 # Project : Data analytics for short term forecasting of electrical power with the lab LCA2 at EPFL 
 * The aim of the project is to maximize the consumption of electrical power by accurately forecasting power consumption using historical data measurements. There are two types of power consumptions, and we believe that if the same conditions are reproduced, the power magnitude will behave similarly. To achieve this, a set of influential features has been identified, such as time and day, then we clustered the historical power measurements according to these features. The power magnitudes of each cluster is represented in a histogram and it used to predict the interval in which the futur realization is expected to lie. The goal is to discover the optimal set of features for clustering that provides the most accurate predictions. By using this approach, the goal is to maximize the power consumption while minimizing waste and cost of solar forcasts (Unfortunately I can't make the code of this project public since it was done with the help of the Lab).
 * Previsouly, clustring using uniform partionning of historical data based only on power intervals was used which doesn't give accurate PIs.
-***Tasks:
+***Tasks***:
 * Exploratory data analysis in order to get insights about the historical measurements of power generation.
 * Studying the optimal classification criterion for power magnitudes using clustering techniques: Kmeans and GMM.
 * Analyse the influence of features using statistical tests Anova correlation and Pearson correlation coefficient. 
 * To evaluate the performance of the techniques implemented, the metrics used on prediction intervals were: PINAW (the width of the interval), CWC.
 * I added features like time and type of that were proven to be higly correlated with power measurements.
-***Limitations: 
+***Limitations***: 
 * The new features created interleaving intervals, hence the metrics were not representative.
 * Since it was not a machine learning predictive model, usual ML metrics couldn't help.
-***Result:
+***Result***:
 
 
 
