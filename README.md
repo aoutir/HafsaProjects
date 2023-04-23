@@ -39,16 +39,19 @@
 ***Tasks***:
 * Exploratory data analysis in order to get insights about the historical measurements of power generation.
 * Studying the optimal classification criterion for power magnitudes using clustering techniques: Kmeans and GMM.
-* Analyse the influence of features using statistical tests Anova correlation and Pearson correlation coefficient. 
-* To evaluate the performance of the techniques implemented, the metrics used on prediction intervals were: PINAW (the width of the interval), CWC.
-* I added features like time and type of that were proven to be higly correlated with power measurements.
+* Analysing the influence of features using statistical tests Anova correlation and Pearson correlation coefficient. 
+* Evaluating the performance of the techniques implemented, the metrics used on prediction intervals were: PINAW (the width of the interval), CWC.
+* Adding features (Variability,Avergage, time and date of measurements) which were proven to be higly correlated with power measurements.
 
 ***Limitations***: 
 * The new features created interleaving intervals, hence the metrics were not representative.
-* Since it was not a machine learning predictive model, usual ML metrics couldn't help.
+* Since it was not a machine learning predictive model, usual ML metrics and ML feature seclection techniques couldn't help.
 
 
 ***Result***:
+* Improved the predictions of reactive power by 8% using added features time and type of the day.
+
+
 
 
 
