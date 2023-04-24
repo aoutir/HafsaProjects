@@ -43,7 +43,7 @@
 * Using convolutional neural network to predict whether following day's close price of an index will be higher or lower than the current day given a dataset of DJI, NASDAQ 100, New work stock exchange, RUSSEL and SP. 
 * Improved CNNpred a previously implemented neural network of the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419301915). 
 * Run experiments on different models CNNpred, stackedCNNpred, LSTM, CNN-LSTM. 
-* 
+
 ***Resutls:***
 * Achived an F1 score of 0.53 with the stackedCNNpred which was quite impressive since the training set was small.
 
