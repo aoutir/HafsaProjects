@@ -1,5 +1,17 @@
 # Hafsa's Projects
 
+# [Project : Hack'n'Lead Ginetta Challenge ]((https://github.com/patw47/hnl2023-ginetta-team-4)
+
+***Tasks:***
+* Implement in Python using Streamlit and LlamaIndex a Swiss Law Expert Chatbot Expert using a provided dataset.
+* Creating a prototype of our solution using Figma. 
+* Pitched our idea in front of +100 participants and 7 members of jury. 
+
+***Results and Limitations:***
+* Won the second place among 8 teams of the challenge organized by Ginetta and Women++ .
+* The hackathon lasted only two days, limiting our ability to bring all our ideas to life.
+
+
 # [Project : Distributed computing](https://github.com/aoutir/Distributed-Algorithms) 
 
 ***Tasks:***
@@ -32,7 +44,7 @@
 * Since the provided dataset was small, we had to perform data augmentation techniques on the images. Torchvision was used allowing a fine-grained control of the transformation pipeline. 
 * Model selection (U-net, DeepLabV3, LR-ASPP mobileNetV3 Large) and hyperparameters tuning using crossvalidation, Grid search/Random search. 
 
-**Results:**
+***Results:***
 * Achieved an F1 score of 0.920 on the test set.
 
 
