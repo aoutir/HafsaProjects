@@ -1,6 +1,6 @@
 # Hafsa's Projects
 
-# [Project : Hack'n'Lead Ginetta Challenge ]((https://github.com/patw47/hnl2023-ginetta-team-4)
+# [Project : Hack'n'Lead Ginetta Challenge ](https://github.com/patw47/hnl2023-ginetta-team-4)
 
 ***Tasks:***
 * Implement in Python using Streamlit and LlamaIndex a Swiss Law Expert Chatbot Expert using a provided dataset.
